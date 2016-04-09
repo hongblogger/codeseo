@@ -2,7 +2,7 @@
 //website http://www.batchuontyren.com/ or http://www.bloghong.com
 
 (function($) {
-    $.fn.bloghong = function(options) {        
+    jQuery.fn.bloghong = function(options) {        
         var defaults = {  
 	    	animation: 'fadeAndPop', //fade, fadeAndPop, none
 		    animationspeed: 300, //how fast animtions are
