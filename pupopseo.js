@@ -107,7 +107,7 @@
 			
         });//each call
     }//orbit plugin call
-})(jQuery);
+})($);
         
 $(window).load(function() {
 		if(document.cookie.indexOf("adf") == -1)
