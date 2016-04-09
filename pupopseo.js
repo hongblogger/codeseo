@@ -1,7 +1,7 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
 //website http://www.batchuontyren.com/ or http://www.bloghong.com
 
-(function($) {
+(function(jQuery) {
     jQuery.fn.bloghong = function(options) {        
         var defaults = {  
 	    	animation: 'fadeAndPop', //fade, fadeAndPop, none
